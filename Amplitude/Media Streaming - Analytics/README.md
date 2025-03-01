@@ -1,8 +1,8 @@
-### Media Streaming - Analytics
+## Media Streaming - Analytics
 
 This project based on a fictitious music streaming service (like Spotify) and analyzes users data on this platform using various metrics.
 
-Key Features:
+### Key Features:
 
 ✅ Cohort June 2023: A cohort in country - USA, platform -  iOS or Android and users who performed the Welcome action for the first time during June 2023;
 
@@ -20,4 +20,4 @@ Key Features:
 
 ✅ CJM: User Journey Map from the start of the session to Play Song or Video.
 
-Tools: Amplitude.
+### Tools and Skills:: <span style="font-weight: lighter; font-size: 0.9em;">Amplitude.</span>

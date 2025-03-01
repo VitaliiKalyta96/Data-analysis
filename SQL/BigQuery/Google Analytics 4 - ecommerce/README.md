@@ -30,9 +30,7 @@ The table includes only data for 2021 and data from the following events:
 - Purchase.
 
 #### Calculation of conversions by dates and traffic channels
-
 Created a second query to get a table with information about conversions from the beginning of the session to the purchase.
-
 The resulting table includes the following fields:
 
 - event_date - the date of the session start, obtained from the event_timestamp field;
@@ -48,4 +46,4 @@ appropriate date and for the appropriate traffic channel);
 - Visit_to_purchase - conversion from the beginning of the session on the site to the purchase (on the relevant date and 
 for the relevant traffic channel).
 
-Tools: Google Analytics 4(GA 4), BiqQuery.
+### Tools and Skills: <span style="font-weight: lighter; font-size: 0,9em;">Google Analytics 4(GA 4), SQL, BiqQuery.</span>

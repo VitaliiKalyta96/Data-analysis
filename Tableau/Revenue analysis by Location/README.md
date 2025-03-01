@@ -1,10 +1,11 @@
-### Revenue Analysis by Location
+## Revenue Analysis by Location
 
 This Tableau dashboard provides a comprehensive revenue analysis across different locations, time periods, and product 
 categories. It enables businesses to track revenue trends, identify regional performance, and assess product 
-contributions to overall revenue.
+contributions to overall revenue. This project demonstrates my expertise in data visualization, business intelligence 
+and analytical storytelling using Tableau.
 
-Key Features:
+### Key Features:
 
 ✅ Total Revenue Breakdown: A bar chart visualizing total revenue per month, highlighting growth trends over time.
 
@@ -20,7 +21,7 @@ Key Features:
 
 ✅ Cohort Analysis: A heatmap-style visualization tracking user revenue contribution over time.
 
-Business Impact:
+### Business Impact:
 
 ✅ Helps stakeholders understand revenue distribution across regions.
 
@@ -28,9 +29,7 @@ Business Impact:
 
 ✅ Assists in revenue forecasting and strategic decision-making.
 
-This project demonstrates my expertise in data visualization, business intelligence and analytical storytelling using 
-Tableau.
+📂 [Dashboard in Tableau Public](https://public.tableau.com/app/profile/vitalii.kalyta/viz/RevenueanalysisbyLocation/Dashboard2)
+Link to the dashboard in Tableau.
 
-Link with Tableau - https://public.tableau.com/app/profile/vitalii.kalyta/viz/RevenueanalysisbyLocation/Dashboard2
-
-Tools: Tableau.
+### Tools and Skills: <span style="font-weight: lighter; font-size: 0,9em;">Tableau.</span>
