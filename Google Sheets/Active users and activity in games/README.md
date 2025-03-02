@@ -42,7 +42,7 @@ sheet is used.
 
    b. First activity month - the first month of activity for each user. The MINIFS function is used here.
 
-   c. Activity month number - the activity month number. That is, how many months have passed from First activity month 
+   c. Activity month number - the activity month number. That is, how many months have passed from the First activity month 
       to Activity month.
 
 5. Created a new sheet “Cohort analysis” with a pivot table that uses data from the “activity” sheet.
@@ -56,4 +56,4 @@ largest and smallest values. You can filter the data in the tables using slices.
 📂 [File on Google Sheets](https://docs.google.com/spreadsheets/d/1YfVSkavR4RxPsHpB5Tzvlmpi2nYPuIQZDU80jtwomTs/edit?gid=0#gid=0)
 Link on file on Google Sheets.
 
-### Tools and Skills:: <span style="font-weight: lighter; font-size: 0.9em;">Google Sheets, Files(csv format), Charts/Graphs, Pivot tables, Analytical skills.</span>
+### Tools and Skills:: <span style="font-weight: lighter; font-size: 0.9em;">Google Sheets, Files(CSV format), Charts/Graphs, Pivot tables, Analytical skills.</span>

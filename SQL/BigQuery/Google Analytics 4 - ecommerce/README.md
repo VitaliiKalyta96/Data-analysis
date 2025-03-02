@@ -1,12 +1,12 @@
 ## Google Analytics 4 - ecommerce
 
-This project about data from Google Analytics 4 and data analysis query in BigQuery. It calculates and analysises
+This project is about data from Google Analytics 4 and data analysis query in BigQuery. It calculates and analysis
 the passage of the funnel by visitors of the eCommerce platform.
 
 ### Key features.
 
 #### Prepared data for building reports in BI systems.
-Created first query to get a table with information about events, users, and sessions in GA4. As a result of executing 
+Created the first query to get a table with information about events, users, and sessions in GA4. As a result of executing 
 the query, we get a table that will include the following fields:
 
 - event_timestamp - date and time of the event (data type must be timestamp);
@@ -21,7 +21,7 @@ the query, we get a table that will include the following fields:
 
 The table includes only data for 2021 and data from the following events:
 
-- Session start on the site;
+- Session starts on the site;
 - Viewing item;
 - Adding a product to the cart;
 - Begin of checkout;

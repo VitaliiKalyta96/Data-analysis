@@ -4,7 +4,7 @@ This project is about product metrics using Google Sheets and evaluating the eff
 
 ### Key features
 
-🎯 In the file on the sheet we got from games.csv, added the following data columns:
+🎯 In the file on the sheet we got from games.csv, I added the following data columns:
 
 ✅ Total revenue - the sum of the revenue column for each game separately;
 
@@ -30,4 +30,4 @@ The conclusions are written below the table.
 📂 [File on Google Sheets](https://docs.google.com/spreadsheets/d/1BB4vOl6cvD3JriXpnfVyDrGEcDaV095utc6Oy3czXGQ/edit?usp=sharing) -
 Link on file on Google Sheets. 
 
-### Tools and Skills:: <span style="font-weight: lighter; font-size: 0.9em;">Google Sheets, Files(csv format), Analytical skills.</span>
+### Tools and Skills:: <span style="font-weight: lighter; font-size: 0.9em;">Google Sheets, Files(CSV format), Analytical skills.</span>

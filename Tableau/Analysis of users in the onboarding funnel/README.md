@@ -1,7 +1,7 @@
-## Analysis users in onboarding funnel
+## Analysis of users in the onboarding funnel
 
 This interactive Tableau dashboard analyzes the user onboarding funnel, tracking key stages from registration to first
-payment. It provides insights into user drop-off rates and conversion performance at each step of the funnel.
+payment. It provides insights into user drop-off rates and conversion performance at each funnel step.
 
 ### Key Features:
 

@@ -1,6 +1,6 @@
 ## Revenue Analysis by Location
 
-This Tableau dashboard provides a comprehensive revenue analysis across different locations, time periods, and product 
+This Tableau dashboard provides a comprehensive revenue analysis across different locations, periods, and product 
 categories. It enables businesses to track revenue trends, identify regional performance, and assess product 
 contributions to overall revenue. This project demonstrates my expertise in data visualization, business intelligence 
 and analytical storytelling using Tableau.

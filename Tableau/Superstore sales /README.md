@@ -9,10 +9,10 @@ to all the worksheets to provide dynamic insights into the dataset.
 ✅ Worksheet 1. The average number of days it takes to deliver an order for each type of shipping (Ship mode). The number 
 of days for delivery is taken from the Order Date and Ship Date fields.
 
-✅ Worksheet 2. The number of orders broken down by the number of days for delivery.
+✅ Worksheet 2. The number of orders is broken down by the number of days for delivery.
 
 ✅ Worksheet 3. The average number of days it takes to deliver an order in each state in the United States, with 
-visualisation on a map and using a gradient. All sheets are added to the dashboard with appropriate filters: Order date, 
+visualization on a map and using a gradient. All sheets are added to the dashboard with appropriate filters: Order date, 
 Segment, Ship mode.
 
 📂 [Dashboard in Tableau Public](https://public.tableau.com/app/profile/vitalii.kalyta/viz/superstore_sales_17392978083030/Dashboard1)

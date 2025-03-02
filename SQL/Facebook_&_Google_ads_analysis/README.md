@@ -11,6 +11,6 @@ This project analyzes obtained data from Facebook and Google databases on advert
 ✅ Combined data from different tables using the union and join operation;
 
 ✅ Used operators to work with strings, Common table expressions (CTE), Conditional operators and operators for working 
-with missing values, applied functions for working with dates, window functions.
+with missing values, applied functions for working with dates and window functions.
 
 ### Tools and Skills: <span style="font-weight: lighter; font-size: 0,9em;">dBeaver, SQL, PostgreSQL, Analytical skills.</span>
