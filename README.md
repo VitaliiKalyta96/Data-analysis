@@ -45,8 +45,4 @@ performance.
 
  `git clone https://github.com/VitaliiKalyta96/Data-analysis.git`
 
-2. Install dependencies if required (for Python projects):
-```
- рір install pandas numpy matplotlib seaborn
-```
-3. Open relevant files in Looker Studio, Tableau or other tools for analysis.
+2. Open relevant files in folder.
