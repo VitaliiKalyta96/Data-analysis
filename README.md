@@ -45,4 +45,4 @@ performance.
 
  `git clone https://github.com/VitaliiKalyta96/Data-analysis.git`
 
-2. Open relevant files in folder.
+2. Open any project in folder.
