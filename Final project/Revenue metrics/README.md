@@ -18,4 +18,4 @@ revenue dynamics and identify key factors that affect it.
 📂 [Dashboard in Tableau Public](https://public.tableau.com/app/profile/vitalii.kalyta/viz/FinalprojectRevenuemetrics_17455955059690/Dashboard)
 Link to the dashboard in Tableau.
 
-### Tools and Skills: <span style="font-weight: lighter; font-size: 0,9em;">PostgreSQL (acroos dBeaver), Tableau.</span>
+### Tools and Skills: <span style="font-weight: lighter; font-size: 0,9em;">PostgreSQL (across dBeaver), Tableau.</span>
